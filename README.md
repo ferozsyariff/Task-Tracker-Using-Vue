@@ -40,4 +40,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Appreciation
 
-Major appreciation to [Brad Travery](https://github.com/bradtraversy) for [this](https://www.youtube.com/watch?v=qZXt1Aom3Cs&t=3282s) tutorial on how to build this. A real legend for us beginners.
+Major appreciation to [Brad Travery](https://github.com/bradtraversy) for [this](https://www.youtube.com/watch?v=qZXt1Aom3Cs&t=3282s) tutorial on how to build this Task Tracker. A real legend for us beginners.
