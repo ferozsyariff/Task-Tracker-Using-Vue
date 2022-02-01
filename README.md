@@ -5,8 +5,10 @@
 This project is to be run locally for now
 
 There are two parts to this project:
-(1) the frontend, built using Vue - port that it runs on depends on your machine (usually `8080`, or `8081`)
-(2) a mock backend, built using Json-Server - run on `port 5000` by default
+
+    (1) the frontend, built using Vue - port that it runs on depends on your machine (usually `8080`, or `8081`)
+
+    (2) a mock backend, built using Json-Server - run on `port 5000` by default
 
 ## Project setup
 
